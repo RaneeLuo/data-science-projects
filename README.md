@@ -5,9 +5,10 @@ This repository contains some projects I worked on when first learning data scie
 ## Contributing
 If you are a fellow data scientist or machine learning engineer who is interested in sharing their work for others to use and learn from, please Fork the repository and open a Pull Request. All projects should be self-contained and placed within a uniquely named folder within the `projects` folder.
 ### Guidelines
-- Notebooks should be fully self-contained and have full outputs. In other words, readers should be able to read through the notebook and understand your work without needing to run the code 
-- Code should be well organized and documented
-- To the extent possible, data should be downloaded programmatically (e.g. using public URLs), and all projects must use publicly accessible and free data
+- Notebooks should be fully self-contained and have full outputs. In other words, readers should be able to read through the notebook and understand your work without needing to run the code.
+- Notebooks should be converted to markdown and used to create a `README.md` that reads like a blog post. See existing projects for examples.
+- Code should be well organized and documented.
+- To the extent possible, data should be downloaded programmatically (e.g. using public URLs), and all projects must use publicly accessible and free data.
 
 ## Project Descriptions
 
